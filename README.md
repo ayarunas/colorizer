@@ -37,7 +37,7 @@ Simple Example:
 
 ### A Public Domain Color Chart for your convenience
 
-You'll want to use the 3 digit codes in the lower left of each block.
+You'll want to use the 3 digit codes in the lower left of each block (0-255).
 
 
 ![256 color chart](Xterm_256color_chart.gif?raw=true)
