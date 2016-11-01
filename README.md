@@ -30,4 +30,4 @@ Simple Example:
 	
 ### A Public Domain Color Chart for your convenience
 
-![256 color chart](Xterm_256color_chart.svg?raw=true)
+![256 color chart](Xterm_256color_chart.gif?raw=true)
