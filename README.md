@@ -27,7 +27,7 @@ Simple Example:
     
 		fmt.Println(blue("This text is blue."))
 		fmt.Println(red("This text is red."))
-		fmt.Println(yellow("This text is red too. Just kidding, it's yellow."))
+		fmt.Println(yellow("This text is red too. Just kidding -- it's yellow."))
 	
 		czr.Reset() // Your terminal is now back to normal
 	
