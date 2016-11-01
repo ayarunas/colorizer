@@ -46,7 +46,7 @@ You'll want to use the 3 digit codes in the lower left of each block (0-255).
 
 ### More to Come
 
-I intend to build this out a bit, and you are more than welcome to help. I would, however, like to keep the focus narrow and the interface simple and clean. There are many fantastic packages that enable all kinds of command execution, and it is not my intent to compete with or distract from those.
+I intend to build this out a bit, and you are more than welcome to help. I would, however, like to keep the focus narrow and the interface simple and clean. There are many fantastic existing packages that enable all kinds of command execution, and it is not my intent to compete with or distract from those.
 
 <br>
 
