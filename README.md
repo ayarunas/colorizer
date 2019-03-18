@@ -6,7 +6,7 @@ You supply the ANSI color codes, `colorizer` hands you back nifty little functio
 
 <br>
 
-install: `go get github.com/ravindersahni/czr`
+install: `go get github.com/ravindersahni/colorizer`
 
 <br>
 
@@ -16,7 +16,7 @@ Simple Example:
 
 	import (
 		"fmt"
-		"github.com/ravindersahni/czr"
+		czr "github.com/ravindersahni/colorizer"
 	)
 	
 	func main() {
